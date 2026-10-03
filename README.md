@@ -1,2 +1,2 @@
-# packeting
-Turn NSB rounds written on a spreadsheet into a .docx
+# Packeting
+Turn NSB rounds written on a .xlsx spreadsheet into a .docx
